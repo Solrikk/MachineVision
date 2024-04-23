@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/searching.png" width="30%"/>
+  <img src="https://github.com/Solrikk/MachineVision/blob/main/Assets/neon-biometric-authentication-and-retinal-scan.png" width="50%"/>
 </div>
 
 <div align="center">
